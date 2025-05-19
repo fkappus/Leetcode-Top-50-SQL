@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/0596-classes-more-than-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
