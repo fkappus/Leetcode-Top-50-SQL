@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1182-game-play-analysis-iv](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1182-game-play-analysis-iv) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
