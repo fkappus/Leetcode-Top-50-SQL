@@ -23,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1877-find-followers-count) |
+| [2087-confirmation-rate](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
