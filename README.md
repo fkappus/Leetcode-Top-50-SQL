@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1801-average-time-of-process-per-machine) |
