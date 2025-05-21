@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/fkappus/Leetcode-Top-50-SQL/tree/master/1135-customers-who-bought-all-products) |
