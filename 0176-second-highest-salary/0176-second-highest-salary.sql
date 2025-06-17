@@ -2,7 +2,7 @@
 WITH CTE AS (
     SELECT 
     salary,
-    Dense_RANK() OVER (ORDER BY salary DESC) as rank_by_salary
+    DENSE_RANK() OVER (ORDER BY salary DESC) as rank_by_salary
 FROM Employee
 )
 
